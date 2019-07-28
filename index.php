@@ -1,6 +1,14 @@
 <?php
 /**
-* Plugin Name: Admin Setting api
+ * Plugin Name: WP Settings api
+ * Plugin URI:  
+ * Description: Description of the plugin.
+ * Version:     1.0.0
+ * Author:      Tushar Imran
+ * Author URI:  
+ * Text Domain: wp-settings-api
+ * License:     GPL v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 */
 
 
